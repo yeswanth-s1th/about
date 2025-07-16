@@ -3,9 +3,14 @@ layout: default
 title: "Yeswanth — Senior Data Engineer"
 ---
 
-# 👋 Yeswanth  
-*Cloud‑agnostic · Velocity‑obsessed · Quality‑centric*
+ 
+<p align="left">
+  <img src="assets/img/yeswanth_headshot.jpg" alt="Yeswanth S. headshot" width="200" height="200">
+</p>
 
+# 👋 Yeswanth Surampudi
+
+*Cloud‑agnostic · Velocity‑obsessed · Quality‑centric*
 > **I turn raw data into revenue** by architecting **elastic, cost‑optimised pipelines** and cutting warehouse spend **50 %**.
 
 ---
