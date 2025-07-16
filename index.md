@@ -26,10 +26,10 @@ title: "Yeswanth — Senior Data Engineer"
 
 | Area | Technologies |
 | :--- | :--- |
-| **Cloud & Warehouses** | AWS (Glue / Kinesis / S3), GCP (BigQuery / Dataflow), Snowflake |
+| **Cloud & Warehouses** | AWS (Lambda / Kinesis / S3), GCP (BigQuery / Cloud Composer), Snowflake |
 | **Streaming & Orchestration** | Kafka / Flink / Kinesis, Apache Airflow, dbt |
 | **Languages & IaC** | Python, SQL, Terraform, Docker, GitHub Actions |
-| **Quality & Governance** | Great Expectations, Data Contracts, CI‑CD‑as‑Code |
+| **Quality & Governance** | Data Encryption, Data Quality checks, Data Validation |
 
 ---
 
