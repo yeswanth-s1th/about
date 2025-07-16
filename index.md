@@ -5,7 +5,7 @@ title: "Yeswanth — Senior Data Engineer"
 
  
 <p align="left">
-  <img src="assets/img/yeswanth_headshot.jpg" alt="Yeswanth S. headshot" width="200" height="200">
+  <img src="assets/img/yeswanth_headshot.jpg" alt="yeswanth s" width="200" height="200">
 </p>
 
 # 👋 Yeswanth Surampudi
