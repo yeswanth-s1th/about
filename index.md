@@ -34,19 +34,21 @@ title: "Yeswanth — Senior Data Engineer"
 ---
 
 ## ✨ Flagship Projects
+
 <details>
   <summary><b>Click to view my six showcase repos</b></summary>
 
-| ⭐ Repo | Impact Highlight |
-| :--- | :--- |
-| **[pipeline-automation](https://github.com/yeswanth-s1th/pipeline-automation)** | Raw → Refined in **15 min** (‑92 % SLA) |
-| **[curation-optimizer](https://github.com/yeswanth-s1th/curation-optimizer)** | Latency **90 min → 6 min**, Snowflake spend **‑50 %** |
-| **[sftp-user-manager](https://github.com/yeswanth-s1th/sftp-user-manager)** | Zero unauthorised access, provisioning **30 min → 1.5 min** |
-| **[availability-boost](https://github.com/yeswanth-s1th/availability-boost)** | API ingest latency **24 min → 2.6 min** (‑89 %) |
-| **[api-integrations-hub](https://github.com/yeswanth-s1th/api-integrations-hub)** | **20 +** SaaS connectors, integration **15 d → 2 d** |
-| **[data-cleansing-factory](https://github.com/yeswanth-s1th/data-cleansing-factory)** | Standardised **300 +** pipelines with deterministic transforms |
+| ⭐ Repo | Impact highlight |
+| ------- | --------------- |
+| **[pipeline‑automation](https://github.com/yeswanth-s1th/pipeline-automation)** | Raw → Refined in **15 min** (‑92 % SLA) |
+| **[curation‑optimizer](https://github.com/yeswanth-s1th/curation-optimizer)** | Latency **90 min → 6 min**, Snowflake spend **‑50 %** |
+| **[sftp‑user‑manager](https://github.com/yeswanth-s1th/sftp-user-manager)** | Zero unauthorised access, provisioning **30 min → 1.5 min** |
+| **[availability‑boost](https://github.com/yeswanth-s1th/availability-boost)** | API ingest latency **24 min → 2.6 min** (‑89 %) |
+| **[api‑integrations‑hub](https://github.com/yeswanth-s1th/api-integrations-hub)** | **20 +** SaaS connectors, integration **15 d → 2 d** |
+| **[data‑cleansing‑factory](https://github.com/yeswanth-s1th/data-cleansing-factory)** | Standardised **300 +** pipelines with deterministic transforms |
 
 </details>
+
 
 ---
 
