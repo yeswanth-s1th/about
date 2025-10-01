@@ -37,6 +37,7 @@ title: "Yeswanth — Senior Data Engineer"
 
 | ⭐ Repo | Impact highlight |
 | ------- | --------------- |
+| **[NL -> SQL ](https://github.com/yeswanth-s1th/streamlit_app)** | Streamlit for non techinical users |
 | **[pipeline‑automation](https://github.com/yeswanth-s1th/pipeline-automation)** | Raw → Refined in **15 min** (‑92 % SLA) |
 | **[curation‑optimizer](https://github.com/yeswanth-s1th/curation-optimizer)** | Latency **90 min → 6 min**, Snowflake spend **‑50 %** |
 | **[sftp‑user‑manager](https://github.com/yeswanth-s1th/sftp-user-manager)** | Zero unauthorised access, provisioning **30 min → 1.5 min** |
